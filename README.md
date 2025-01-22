@@ -1,10 +1,10 @@
 # Data Engineer
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: AWS, Google Cloud, Splunk, Tableau, Apache Hadoop.
 
 ## Education							       		
- M.Tech., Computer Science	| Birla Institute of Technology and Science (_December 2014_) 
- B.Sc., Computer Science | The University of Pune (_April 2010_) 
+- M.Tech., Computer Science	| Birla Institute of Technology and Science (_December 2014_) 
+- B.Sc., Computer Science | The University of Pune (_April 2010_) 
 
 ## Certifications
  - Hashicorp certified Terraform Associate
