@@ -24,7 +24,7 @@ __Table of Contents__
   ruby 3.3.7 (2025-01-15 revision be31f993d7) [x64-mingw-ucrt]
   ```
 
-# Download and Install Jekyll.
+# Download and Install Jekyll
 - Open Command Prompt and install Jekyll.
   ```BASH
   C:\Users\Sandeep>gem install jekyll bundler
@@ -35,7 +35,7 @@ __Table of Contents__
   jekyll 4.4.1
   ```
 
-# Create static website on local machine.
+# Create static website on local machine
 - Open Command Prompt and create a new Jekyll site.
   ```BASH
   cd "C:\Users\Sandeep\Desktop\"
@@ -54,7 +54,7 @@ __Table of Contents__
   bundle exec jekyll serve
   ```
 
-# Setup new GitHub repository.
+# Setup new GitHub repository
 - Create new GitHub repository with special name `gh-user-name.github.io`. e.g. `sandeep-sutar-1.github.io`.
 - Set visibility to public.
 - Go to repository Settings --> Pages --> Build and deployment. Select source `Deploy from a Branch`. Set branch to `main`.
